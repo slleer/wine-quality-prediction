@@ -1,0 +1,9 @@
+GITHUB: https://github.com/slleer/wine-quality-prediction
+DOCKERHUB: https://hub.docker.com/repository/docker/slleer/slleer-cloud-project2
+
+RUN INSTRUCTIONS:
+To run the model, with docker installed:
+
+docker run slleer/slleer-cloud-project:slleer-project2
+
+The program is set to run automatically once the docker image is run. The docker image will be downloaded when you run the above command.
